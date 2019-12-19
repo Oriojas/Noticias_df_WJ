@@ -6,8 +6,9 @@
 - ¿Qué información útil se puede extraer de los datos?
 
 ## Metodología a utilizar
-- Carga de los datos
-- Análisis exploratorio univariable inicialmente, luego multivariable
+- Carga de los datos, OK
+- Análisis exploratorio univariable inicialmente, EN CURSO
+- Análisis multivariable
 - Limpieza de los datos
 - Partición de los datos
 - Aplicación del modelo
