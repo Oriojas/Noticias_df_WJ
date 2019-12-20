@@ -7,15 +7,15 @@
 
 ## Metodología a utilizar
 - Carga de los datos, OK
-- Análisis exploratorio univariable inicialmente, EN CURSO
-- Análisis multivariable
-- Limpieza de los datos
-- Partición de los datos
-- Aplicación del modelo
-- Validación del modelo
-- Optimización del modelo
-- Respuesta de las preguntas de este análisis
-- Presentación de los resultados
+- Análisis exploratorio univariable inicialmente, OK
+- Análisis multivariable, OK
+- Limpieza de los datos, OK
+- Partición de los datos, OK
+- Aplicación del modelo, OK
+- Validación del modelo, OK
+- Optimización del modelo, En curso
+- Respuesta de las preguntas de este análisis, OK
+- Presentación de los resultados, En curs
 
 ## Links documentación
 
